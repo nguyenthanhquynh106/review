@@ -1,4 +1,4 @@
-package constant;
+package static_final;
 
 public class ConstantDemo {
     public static final int HOUR_OF_DAY = 24;
